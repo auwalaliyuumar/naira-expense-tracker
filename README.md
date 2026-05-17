@@ -25,4 +25,10 @@ A simple, beautiful and powerful expense tracker built for Nigerians.
 - Monthly reports
 - Data backup
 
-Made with ❤️ in Nigeria
+### 💌 Support This Project
+
+If this app helps you, consider buying me a coffee ☕
+
+[☕ Buy Me a Coffee](https://buymeacoffee.com/auwalaliyuumar)
+
+Made with ❤️ in Abuja, Nigeria
