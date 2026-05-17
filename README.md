@@ -1,22 +1,30 @@
 # 💰 Naira Expense Tracker
 
-A simple, beautiful, and practical expense tracker made specifically for Nigerians.
+**A clean and useful expense tracker built for Nigerians.**
 
-**Live Demo:** [https://auwalaliyuumar.github.io/naira-expense-tracker/](https://auwalaliyuumar.github.io/naira-expense-tracker/)
+![Screenshot](https://auwalaliyuumar.github.io/naira-expense-tracker/screenshot.png)  
+*(Add screenshot later)*
 
 ### ✨ Features
-- Track Income & Expenses in ₦ (Naira)
-- Local categories (Airtime, NEPA, Fuel, Transport, etc.)
-- Real-time Balance
-- Beautiful Pie Chart (spending by category)
-- Export to CSV
-- Works offline
-- Mobile friendly
+- Track Income & Expenses in Nigerian Naira (₦)
+- Local categories (Airtime, Fuel, NEPA, Transport, etc.)
+- Real-time Balance & Summary
+- Beautiful Pie Chart showing spending habits
+- Export data to CSV
+- Dark Mode (coming soon)
+- Works offline & Mobile friendly
+
+### 🚀 Live Demo
+👉 [Try Naira Expense Tracker](https://auwalaliyuumar.github.io/naira-expense-tracker/)
 
 ### Tech Stack
-HTML • CSS • JavaScript • Chart.js
+- HTML5, CSS3, Vanilla JavaScript
+- Chart.js
 
-### How to Use
-Just visit the [live link](https://auwalaliyuumar.github.io/naira-expense-tracker/) and start tracking!
+### Made by
+**Auwal Aliyu** — Early Career Developer in Abuja, Nigeria.
 
-Made with ❤️ by **Auwal Aliyu** in Abuja, Nigeria.
+---
+
+**Feedback & Contributions are welcome!**  
+Star ⭐ this repo if you find it useful.
