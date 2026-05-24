@@ -53,7 +53,7 @@
       </button>
     </div>
 
-    <!-- Support Button with your real link -->
+    <!-- Fixed Support Button -->
     <div style="text-align: center; margin: 35px 0; padding: 25px; background: #e8f5e9; border-radius: 12px;">
       <p style="margin-bottom: 15px; font-weight: bold; color: #2c3e50; font-size: 18px;">💌 Support this project</p>
       <a href="https://paystack.shop/pay/7-ub2n9idd" 
